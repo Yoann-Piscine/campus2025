@@ -3467,7 +3467,7 @@
         {
          "columns":17,
          "firstgid":1,
-         "image":"Z - Tileset\/Modern tiles_Free\/Interiors_free\/32x32\/Room_Builder_free_32x32.png",
+         "image":"tilesets\/Room_Builder_free_32x32.png",
          "imageheight":736,
          "imagewidth":544,
          "margin":0,
@@ -3486,7 +3486,7 @@
              "orientation":"orthogonal",
              "width":16
             },
-         "image":"Z - Tileset\/0 - Achat\/modernexteriors-win\/Modern_Exteriors_32x32\/Modern_Exteriors_Complete_Tileset_32x32.png",
+         "image":"tilesets\/Modern_Exteriors_Complete_Tileset_32x32.png",
          "imageheight":14496,
          "imagewidth":5632,
          "margin":0,
@@ -3505,7 +3505,7 @@
              "orientation":"orthogonal",
              "width":16
             },
-         "image":"Z - Tileset\/0 - Achat\/Modern_Office_Revamped_v1.2\/1_Room_Builder_Office\/Room_Builder_Office_32x32.png",
+         "image":"tilesets\/Room_Builder_Office_32x32.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -3534,7 +3534,7 @@
              "orientation":"orthogonal",
              "width":16
             },
-         "image":"Z - Tileset\/0 - Achat\/moderninteriors-win\/1_Interiors\/32x32\/Room_Builder_32x32.png",
+         "image":"tilesets\/Room_Builder_32x32.png",
          "imageheight":3616,
          "imagewidth":2432,
          "margin":0,
@@ -3553,7 +3553,7 @@
              "orientation":"orthogonal",
              "width":16
             },
-         "image":"Z - Tileset\/0 - Achat\/Modern_Office_Revamped_v1.2\/Modern_Office_32x32.png",
+         "image":"tilesets\/Modern_Office_32x32.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
@@ -3572,7 +3572,7 @@
              "orientation":"orthogonal",
              "width":16
             },
-         "image":"Z - Tileset\/0 - Achat\/moderninteriors-win\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "image":"tilesets\/Interiors_32x32.png",
          "imageheight":34048,
          "imagewidth":512,
          "margin":0,
@@ -3585,7 +3585,7 @@
         {
          "columns":49,
          "firstgid":106804,
-         "image":"Z - Tileset\/0 - Achat\/modernuserinterface-win\/32x32\/Modern_UI_Style_2_32x32.png",
+         "image":"tilesets\/Modern_UI_Style_2_32x32.png",
          "imageheight":1088,
          "imagewidth":1568,
          "margin":0,
@@ -3608,7 +3608,7 @@
         {
          "columns":3,
          "firstgid":108470,
-         "image":"Z - Tileset\/EGS-LPS.jpg",
+         "image":"tilesets\/EGS-LPS.jpg",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,
